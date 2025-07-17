@@ -1,0 +1,7 @@
+streamlit
+joblib
+pandas
+numpy
+scikit-learn
+plotly # Agar aap plotly use kar rahe hain plots ke liye
+seaborn # Agar aap seaborn use kar rahe hain plots ke liye
